@@ -18,7 +18,7 @@ Bu sistem, aşağıdaki tasarım şablonlarını uygulayarak modüler, genişlet
 
 ---
 
-## 🛠️ Kullanılan Tasarım Desenleri ve Amaçları
+##  Kullanılan Tasarım Desenleri ve Amaçları
 
 ### 🏭 Abstract Factory & Factory Pattern
 
